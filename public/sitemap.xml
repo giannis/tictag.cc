@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://tictag.cc/</loc>
+  <priority>1.00</priority>
+  <lastmod>2008-08-14T02:57:17+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://tictag.cc/info.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-08-12T19:31:26+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://tictag.cc/contact.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-08-12T19:31:24+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://tictag.cc/versions.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2008-08-14T02:57:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://tictag.cc/concept.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2008-08-12T19:31:24+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://tictag.cc/description.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2008-08-12T19:31:25+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://tictag.cc/extra.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2008-08-12T19:31:25+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://tictag.cc/whowhy.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2008-08-12T19:31:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>

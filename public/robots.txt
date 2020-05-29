@@ -1,0 +1,31 @@
+User-Agent: *
+Allow: /
+
+User-agent: *
+Allow: /
+Disallow: /bin
+Disallow: /images
+Disallow: /js
+Disallow: /tictagApp
+
+
+# Google Image
+User-agent: Googlebot-Image
+Disallow:
+Allow: /*
+ 
+# Google AdSense
+User-agent: Mediapartners-Google*
+Disallow:
+Allow: /*
+ 
+# Internet Archiver Wayback Machine
+User-agent: ia_archiver
+Disallow: /
+ 
+# digg mirror
+User-agent: duggmirror
+Disallow: /
+
+Sitemap: http://tictag.cc/sitemap.xml.gz
+
